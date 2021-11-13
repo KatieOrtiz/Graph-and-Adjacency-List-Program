@@ -1,4 +1,3 @@
-//Katie Ortiz - Homework #4 - CS 236 - 4/11/2021
 #ifndef _GraphHeader_H_
 #define _GraphHeader_H_
 
